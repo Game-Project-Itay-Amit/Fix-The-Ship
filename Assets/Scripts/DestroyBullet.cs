@@ -10,7 +10,6 @@ public class DestroyBullet : MonoBehaviour
 
     private void OnTriggerEnter(Collider other) {
         if (other.tag == triggeringTag && enabled) {
-            // Destroy(this.gameObject);
             Destroy(other.gameObject);
         }
     }
