@@ -2,7 +2,9 @@
 
 Use WASD to move and space to shoot. Kill enemies and solve the puzzle to win.
 
-itch.io : https://amitay2022.itch.io/fixtheshipsimple
+### New itch.io: https://amitay2022.itch.io/fix-the-ship-ver2
+
+Old itch.io : https://amitay2022.itch.io/fixtheshipsimple
 
 # Scripts:
 
